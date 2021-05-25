@@ -1,0 +1,13 @@
+C:\Users\Rohit Dasari\source\repos\Public Access Specifier\bin\Debug\netcoreapp3.1\Public Access Specifier.exe
+C:\Users\Rohit Dasari\source\repos\Public Access Specifier\bin\Debug\netcoreapp3.1\Public Access Specifier.deps.json
+C:\Users\Rohit Dasari\source\repos\Public Access Specifier\bin\Debug\netcoreapp3.1\Public Access Specifier.runtimeconfig.json
+C:\Users\Rohit Dasari\source\repos\Public Access Specifier\bin\Debug\netcoreapp3.1\Public Access Specifier.runtimeconfig.dev.json
+C:\Users\Rohit Dasari\source\repos\Public Access Specifier\bin\Debug\netcoreapp3.1\Public Access Specifier.dll
+C:\Users\Rohit Dasari\source\repos\Public Access Specifier\bin\Debug\netcoreapp3.1\Public Access Specifier.pdb
+C:\Users\Rohit Dasari\source\repos\Public Access Specifier\obj\Debug\netcoreapp3.1\Public Access Specifier.csprojAssemblyReference.cache
+C:\Users\Rohit Dasari\source\repos\Public Access Specifier\obj\Debug\netcoreapp3.1\Public Access Specifier.AssemblyInfoInputs.cache
+C:\Users\Rohit Dasari\source\repos\Public Access Specifier\obj\Debug\netcoreapp3.1\Public Access Specifier.AssemblyInfo.cs
+C:\Users\Rohit Dasari\source\repos\Public Access Specifier\obj\Debug\netcoreapp3.1\Public Access Specifier.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Dasari\source\repos\Public Access Specifier\obj\Debug\netcoreapp3.1\Public Access Specifier.dll
+C:\Users\Rohit Dasari\source\repos\Public Access Specifier\obj\Debug\netcoreapp3.1\Public Access Specifier.pdb
+C:\Users\Rohit Dasari\source\repos\Public Access Specifier\obj\Debug\netcoreapp3.1\Public Access Specifier.genruntimeconfig.cache
