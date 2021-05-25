@@ -1,0 +1,13 @@
+C:\Users\Rohit Dasari\source\repos\Private Access Specifier\bin\Debug\netcoreapp3.1\Private Access Specifier.exe
+C:\Users\Rohit Dasari\source\repos\Private Access Specifier\bin\Debug\netcoreapp3.1\Private Access Specifier.deps.json
+C:\Users\Rohit Dasari\source\repos\Private Access Specifier\bin\Debug\netcoreapp3.1\Private Access Specifier.runtimeconfig.json
+C:\Users\Rohit Dasari\source\repos\Private Access Specifier\bin\Debug\netcoreapp3.1\Private Access Specifier.runtimeconfig.dev.json
+C:\Users\Rohit Dasari\source\repos\Private Access Specifier\bin\Debug\netcoreapp3.1\Private Access Specifier.dll
+C:\Users\Rohit Dasari\source\repos\Private Access Specifier\bin\Debug\netcoreapp3.1\Private Access Specifier.pdb
+C:\Users\Rohit Dasari\source\repos\Private Access Specifier\obj\Debug\netcoreapp3.1\Private Access Specifier.csprojAssemblyReference.cache
+C:\Users\Rohit Dasari\source\repos\Private Access Specifier\obj\Debug\netcoreapp3.1\Private Access Specifier.AssemblyInfoInputs.cache
+C:\Users\Rohit Dasari\source\repos\Private Access Specifier\obj\Debug\netcoreapp3.1\Private Access Specifier.AssemblyInfo.cs
+C:\Users\Rohit Dasari\source\repos\Private Access Specifier\obj\Debug\netcoreapp3.1\Private Access Specifier.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Dasari\source\repos\Private Access Specifier\obj\Debug\netcoreapp3.1\Private Access Specifier.dll
+C:\Users\Rohit Dasari\source\repos\Private Access Specifier\obj\Debug\netcoreapp3.1\Private Access Specifier.pdb
+C:\Users\Rohit Dasari\source\repos\Private Access Specifier\obj\Debug\netcoreapp3.1\Private Access Specifier.genruntimeconfig.cache
