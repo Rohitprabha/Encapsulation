@@ -1,0 +1,12 @@
+C:\Users\Rohit Dasari\source\repos\Internal Access Specifier\bin\Debug\netcoreapp3.1\Internal Access Specifier.exe
+C:\Users\Rohit Dasari\source\repos\Internal Access Specifier\bin\Debug\netcoreapp3.1\Internal Access Specifier.deps.json
+C:\Users\Rohit Dasari\source\repos\Internal Access Specifier\bin\Debug\netcoreapp3.1\Internal Access Specifier.runtimeconfig.json
+C:\Users\Rohit Dasari\source\repos\Internal Access Specifier\bin\Debug\netcoreapp3.1\Internal Access Specifier.runtimeconfig.dev.json
+C:\Users\Rohit Dasari\source\repos\Internal Access Specifier\bin\Debug\netcoreapp3.1\Internal Access Specifier.dll
+C:\Users\Rohit Dasari\source\repos\Internal Access Specifier\bin\Debug\netcoreapp3.1\Internal Access Specifier.pdb
+C:\Users\Rohit Dasari\source\repos\Internal Access Specifier\obj\Debug\netcoreapp3.1\Internal Access Specifier.AssemblyInfoInputs.cache
+C:\Users\Rohit Dasari\source\repos\Internal Access Specifier\obj\Debug\netcoreapp3.1\Internal Access Specifier.AssemblyInfo.cs
+C:\Users\Rohit Dasari\source\repos\Internal Access Specifier\obj\Debug\netcoreapp3.1\Internal Access Specifier.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Dasari\source\repos\Internal Access Specifier\obj\Debug\netcoreapp3.1\Internal Access Specifier.dll
+C:\Users\Rohit Dasari\source\repos\Internal Access Specifier\obj\Debug\netcoreapp3.1\Internal Access Specifier.pdb
+C:\Users\Rohit Dasari\source\repos\Internal Access Specifier\obj\Debug\netcoreapp3.1\Internal Access Specifier.genruntimeconfig.cache
